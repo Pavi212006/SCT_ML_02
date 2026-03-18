@@ -4,7 +4,7 @@
 This project focuses on **Market Basket Analysis** and **Customer Segmentation**. Using the **K-Means Clustering** algorithm, I developed a system that categorizes retail customers into distinct groups based on their purchasing power (Annual Income) and behavior (Spending Score).
 
 ### 🚀 Key Features
-- **Unsupervised Learning:** Implemented `K-Means++` to automatically identify 5 natural customer segments.
+- **Unsupervised Learning:** Implemented `K-Means` to automatically identify 5 natural customer segments.
 - **Centroid Logic:** Precisely calculated the center-point of each group to define typical customer profiles.
 - **Automated Labeling:** The system interprets raw cluster data into human-readable categories:
   - *High-Value Targets* (High Income, High Spend)
